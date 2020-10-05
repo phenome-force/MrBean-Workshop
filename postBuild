@@ -1,0 +1,4 @@
+set -ex
+
+Rscript -e 'install.packages(c("SpATS", "waiter"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
+Rscript -e 'library(devtools);devtools::install_github("AparicioJohan/MrBeanApp", dependencies=FALSE)'

@@ -1,0 +1,19 @@
+channels:
+    - conda-forge
+dependencies:
+    - r-base=3.6
+    - r-bs4dash
+    - r-config
+    - r-data.table
+    - r-devtools
+    - r-ggplot2
+    - r-golem
+    - r-htmltools
+    - r-lme4
+    - r-magrittr
+    - r-matrix
+    - r-readxl
+    - r-shiny
+    - r-shinywidgets
+    - r-shinyjs
+    - r-summarytools
