@@ -23,6 +23,7 @@ dependencies:
     - r-plotly
     - r-psych
     - r-readxl
+    - r-rgl
     - r-rintrojs
     - r-shiny
     - r-shinyalert
