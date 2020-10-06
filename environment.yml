@@ -9,6 +9,7 @@ dependencies:
     - r-devtools
     - r-echarts4r
     - r-factoextra
+    - r-fields
     - r-formattable
     - r-geor
     - r-ggplot2
