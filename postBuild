@@ -1,7 +1,7 @@
 set -ex
 
 Rscript -e 'library(devtools);devtools::install_github("CIP-RIU/brapi", dependencies=TRUE)'
-Rscript -e 'install.packages(c("SpATS", "waiter", "shinytoastr", "brapi", "sever"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
+Rscript -e 'install.packages(c("SpATS", "waiter", "shinytoastr", "sever"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
 Rscript -e 'library(devtools);devtools::install_github("AparicioJohan/MrBeanApp@main", dependencies=FALSE)'
 
 R -e "library(MrBean);run_app()"
