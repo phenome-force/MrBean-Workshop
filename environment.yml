@@ -7,6 +7,7 @@ dependencies:
     - r-config
     - r-data.table
     - r-devtools
+    - r-dotcall64
     - r-echarts4r
     - r-factoextra
     - r-fields
