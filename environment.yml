@@ -30,5 +30,6 @@ dependencies:
     - r-shinycssloaders
     - r-shinywidgets
     - r-shinyjs
+    - r-spam
     - r-summarytools
     - r-thinkr
