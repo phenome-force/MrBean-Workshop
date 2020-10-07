@@ -4,7 +4,7 @@ Rscript -e 'library(devtools);devtools::install_github("CIP-RIU/brapi", dependen
 Rscript -e 'install.packages(c("SpATS"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
 Rscript -e 'install.packages(c("waiter"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
 Rscript -e 'install.packages(c("shinytoastr"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
-#Rscript -e 'install.packages(c("shinytoastr", "sever"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
-#Rscript -e 'library(devtools);devtools::install_github("AparicioJohan/MrBeanApp@main", dependencies=FALSE)'
+Rscript -e 'install.packages(c("sever"), dependencies=TRUE, quiet=TRUE, repos=c("https://cloud.r-project.org"))'
+#Rscript -e 'library(devtools);devtools::install_github("AparicioJohan/MrBeanApp@main", dependencies=TRUE)'
 
 #R -e "library(MrBean);run_app()"
