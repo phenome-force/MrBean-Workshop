@@ -1,6 +1,7 @@
 channels:
     - conda-forge
 dependencies:
+    - libgomp
     - r-base=3.6
     - r-broom.mixed
     - r-bs4dash
