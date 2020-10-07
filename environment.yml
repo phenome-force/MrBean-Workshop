@@ -1,0 +1,37 @@
+channels:
+    - conda-forge
+dependencies:
+    - r-base=3.6
+    - r-broom.mixed
+    - r-bs4dash
+    - r-config
+    - r-data.table
+    - r-devtools
+    - r-dotcall64
+    - r-echarts4r
+    - r-factoextra
+    - r-fields
+    - r-formattable
+    - r-geor
+    - r-ggplot2
+    - r-ggpubr
+    - r-golem
+    - r-htmltools
+    - r-kableextra
+    - r-lme4
+    - r-lmertest
+    - r-magrittr
+    - r-matrix
+    - r-plotly
+    - r-psych
+    - r-readxl
+    - r-rgl
+    - r-rintrojs
+    - r-shiny
+    - r-shinyalert
+    - r-shinycssloaders
+    - r-shinywidgets
+    - r-shinyjs
+    - r-spam
+    - r-summarytools
+    - r-thinkr
