@@ -22,6 +22,7 @@ dependencies:
     - r-lmertest
     - r-magrittr
     - r-matrix
+    - r-mnormt
     - r-plotly
     - r-psych
     - r-readxl
