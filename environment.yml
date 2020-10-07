@@ -35,3 +35,4 @@ dependencies:
     - r-spam
     - r-summarytools
     - r-thinkr
+    - r-tmvnsim
